@@ -29,7 +29,7 @@ I am now a Research Assistant Professor at the [Dept of Information Systems, Bus
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. Yuanhao Pu, Defu Lian, Xiaolong Chen, Jin Chen, Ze Liu, Enhong Chen. Understanding the Effect of Loss Functions on the Generalization of Recommendations. The 31st ACM SIGKDD Conference on Knowledge Discovery and Date Mining. (Accepted**KDD 2025**)
+1. Yuanhao Pu, Defu Lian, Xiaolong Chen, Jin Chen, Ze Liu, Enhong Chen. Understanding the Effect of Loss Functions on the Generalization of Recommendations. The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (Accepted, **KDD 2025**)
 1. Yuanhao Pu, Xiaolong Chen, Xu Huang, Jin Chen, Defu Lian, Enhong Chen. Learning-Efficient Yet Generalizable Collaborative Filtering for Item Recommendation. The 41st International Conference on Machine Learning. (**ICML 2024**)
 2. Yuanhao Pu, Rui Fan, **Jin Chen**, Zhihao Zhu, Defu Lian*, Enhong Chen. Automated Sparse and Low-Rank Shallow Autoencoders for Recommendation. ACM Transactions on Recommender Systems (TORS), accepted, 2024.
 3. Liwei Deng, Yan Zhao, **Jin Chen**, Shuncheng Liu, Yuyang Xia, Kai Zheng*. Learning to Hash for Trajectory Similarity Computation and Search. The 40th IEEE International Conference on Data Engineering. (**ICDE 2024**)
@@ -44,7 +44,7 @@ I am now a Research Assistant Professor at the [Dept of Information Systems, Bus
 2. Yupu Zhang, Liwei Deng, Yan Zhao, **Jin Chen**, Kai Zheng: SimiDTR: Deep Trajectory Recovery with Enhanced Trajectory Similarity. The 28th International Conference on Database Systems for Advanced Applications. (**DASFAA 2023, Best Student Paper Award Runner-up**)
 3. **Jin Chen**, Defu Lian, Yucheng Li, Baoyun Wang, Kai Zheng, Enhong Chen. Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. The 36th Conference on Neural Information Processing Systems. (**NeurIPS 2022**)
 4. Shuncheng Liu, Xu Chen, Yan Zhao, **Jin Chen**, Rui Zhou and Kai Zheng*. Efficient Learning with Pseudo Labels for Query Cost Estimation. The 30th ACM International Conference on Information & Knowledge Management. (**CIKM 2022**)
-5. **Jin Chen**<sup>+</sup>, Guanyu Ye<sup>+</sup> (Co-author), Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Date Mining. (**KDD 2022**)
+5. **Jin Chen**<sup>+</sup>, Guanyu Ye<sup>+</sup> (Co-author), Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou and Kai Zheng*. Efficient Join Order Selection Learning with Graph-based Representation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD 2022**)
 6. Rui Fan, **Jin Chen**, Jin Zhang, Defu Lian* and Enhong Chen. Improving Implicit Alternating Least Squares with Ring-based Regularization. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2022**) 
 7. **Jin Chen**, Defu Lian * , Binbin Jin, Kai Zheng * and Enhong Chen. Learning Recommenders for Implicit Feedback with Importance Resampling. The Web Conference 2022. (**WWW 2022**)
 8. **Jin Chen**, Defu Lian*, Binbin Jin, Xu Huang, Kai Zheng and Enhong Chen. Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative Filtering. The Web Conference 2022. (**WWW 2022**)
