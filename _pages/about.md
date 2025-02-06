@@ -80,38 +80,19 @@ I am now a Research Assistant Professor at the [Dept of Information Systems, Bus
 - AAAI 2019 Travel Award
 
 # ⏳ Professional Services
-
 #### Program Committee Members
+- AC, KDD 2025
 - PC member, KDD 2023
-- PC member, AAAI 2021, 2022, 2023, 2024
-- PC member, IJCAI 2022, 2023, 2024
-- PC member, CIKM 2022, 2023
-- PC member, ECML-PKDD 2022, 2023
+- PC member, AAAI 2021, 2022, 2023, 2024, 2025
+- PC member, IJCAI 2022, 2023, 2024, 2025
+- PC member, CIKM 2022, 2023, 2024
+- PC member, ECML-PKDD 2022, 2023, 2024, 2025
 - Sub-Reviewer, WWW 2022
 - Sub-Reviewer, Recsys 2023
 - PC member, BDMS@DASFAA 2023
 
 #### Journal Invited Reviewer
 - ACM Transactions on Information Systems (TOIS)
+- Journal of Computing (JOC)
 - Journal of Data & Knowledge Engineering
 - Journal of Data Science and Analytics
-
-<!-- # 📆 Research Experience
-
-#### Ranking-based Implicit Regularization for One-class collaborative filtering
-+ Propose a ranking-based regularizer for one-class collaborative filtering by hypothesizing that users’ preference scores for uninteracted items should not deviate a lot from each other.
-+ The research has been accepted by AAAI 2019, TKDE 2021.
-
-#### Advertising Creative Optimization <font size="3">(Alibaba Innovative Research, Alimama Group) </font>
-+ Lead and accomplish the research of online advertising creative optimization.
-+ Deploy the algorithm in the production environment and increase CTR by 5%.
-+ The research has been accepted by AAAI 2021, WWW 2021.
-
-#### Dynamic Negative Sampling for Recommender Systems
-+ Propose a dynamic sampler via inverted multi-index. The research has been accepted by WWW 2022.
-+ Design an importance resampling based sampler. The research has been accepted by WWW 2022.
-+ Propose a Cache-Augmented Inbatch Importance Resampling for training recommender retrievers. The research has been submitted to NeurIPS 2022.
-
-#### Join Order Selection for Database Optimizer <font size="3"> (Huawei Cloud Database Innovation Lab) </font>
-+ Lead and accomplish the research of RL-based Join Order Selection.
-+ The research has been accepted by KDD 2022. -->
