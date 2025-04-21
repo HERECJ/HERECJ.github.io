@@ -82,6 +82,7 @@ I am now a Research Assistant Professor at the [Dept of Information Systems, Bus
 # ⏳ Professional Services
 #### Program Committee Members
 - AC, KDD 2025
+- PC member, NeurIPS 2025
 - PC member, KDD 2023
 - PC member, AAAI 2021, 2022, 2023, 2024, 2025
 - PC member, IJCAI 2022, 2023, 2024, 2025
