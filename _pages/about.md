@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am now a researcher at Tecent on Online Advertising. I got my Ph.D. degree under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu) in the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in Dec 2023. I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially in efficient recommender systems.
+I am now a machine learning engineer at Tencent in Online Advertising. Previously, I was a Research Assistant Professor at the Dept of Information Systems, Business Statistics & Operations Management (ISOM) under the School of Business and Management of the Hong Kong University of Science and Technology. I received my PhD degree under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu) in the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in Dec 2023. I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially in efficient recommender systems.
 
 <!--
 I am now a Research Assistant Professor at the [Dept of Information Systems, Business Statistics & Operations Management (ISOM)](https://isom.hkust.edu.hk/) under the [School of Business and Management](https://bm.hkust.edu.hk/) of the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). I got my Ph.D. degree under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu) in the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in Dec 2023. I got my B.S. degree from the University of Electronic Science and Technology of China in 2018. My research interests include data mining, especially on efficient recommender systems.
@@ -68,6 +68,7 @@ I am now a Research Assistant Professor at the [Dept of Information Systems, Bus
 # 💻 Experience
 
 - *2019.10 - 2020.10*, Alimama, Alibab Group, Beijing, China.
+  - Research Intern
   - Online Advertising Creative Optimization
   - Mentor: [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en)
 - *2024.03 - 2025.09*, HKUST, SBM, ISOM, Hong Kong
