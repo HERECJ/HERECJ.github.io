@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jin Chen 陈矜"
   avatar           : "images/pic_whitebackground.png" # "images/android-chrome-512x512.png"
-  bio              : "RAP, ISOM, HKUST"
-  location         : "Hong Kong"
+  bio              : "Researcher, Tecent"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h-v_wdIAAAAJ"
