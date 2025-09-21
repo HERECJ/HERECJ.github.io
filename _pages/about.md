@@ -30,7 +30,7 @@ I am now a Research Assistant Professor at the [Dept of Information Systems, Bus
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. Yuanhao Pu, Defu Lian, Xiaolong Chen, Jin Chen, Ze Liu, Enhong Chen. Understanding the Effect of Loss Functions on the Generalization of Recommendations. The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (Accepted, **KDD 2025**)
+1. Yuanhao Pu, Defu Lian, Xiaolong Chen, Jin Chen, Ze Liu, Enhong Chen. Understanding the Effect of Loss Functions on the Generalization of Recommendations. The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD 2025**)
 1. Yuanhao Pu, Xiaolong Chen, Xu Huang, Jin Chen, Defu Lian, Enhong Chen. Learning-Efficient Yet Generalizable Collaborative Filtering for Item Recommendation. The 41st International Conference on Machine Learning. (**ICML 2024**)
 2. Yuanhao Pu, Rui Fan, **Jin Chen**, Zhihao Zhu, Defu Lian*, Enhong Chen. Automated Sparse and Low-Rank Shallow Autoencoders for Recommendation. ACM Transactions on Recommender Systems (TORS), accepted, 2024.
 3. Liwei Deng, Yan Zhao, **Jin Chen**, Shuncheng Liu, Yuyang Xia, Kai Zheng*. Learning to Hash for Trajectory Similarity Computation and Search. The 40th IEEE International Conference on Data Engineering. (**ICDE 2024**)
